@@ -1,4 +1,5 @@
 # challenge 1 time
+setwd("~/R/workshops-scripts")
 library(sf)
 library(ggplot2)
 library(dplyr)
